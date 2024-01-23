@@ -1,7 +1,7 @@
 '''
 There are 4 data types in python : List, Tuple, Set, Dictionary
 
-1. List :
+List :
     - list follows indexing.
 
 '''
