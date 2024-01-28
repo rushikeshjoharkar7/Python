@@ -18,7 +18,7 @@ print(type(a))
 print(a)
 # o/p : {1, 24113, 2332, 23, 234, 12}       # Un-ordered output
 
-# print(a[2])
+print(a[2])
 # o/p : TypeError: 'set' object is not subscriptable    # Un-indexed
 
 print(len(a))
