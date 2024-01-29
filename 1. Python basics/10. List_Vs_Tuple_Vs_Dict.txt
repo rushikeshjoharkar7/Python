@@ -1,0 +1,10 @@
+Differences between list, tuple and dictionary
+
+List : [v1,v2,v3] , Indexing , Ordered , Mutable , Duplicates accepted
+
+Tuple : (v1,v2,v3) , Indexing , Ordered , Immutable , Duplicates accepted
+
+Set : {v1,v2,v3} , No Indexing , Random ordered , Mutable , Duplicates ignored
+
+Dictionary : {k1:v1, k2:v2} , No Indexing , Ordered , Mutable , Keys are unique and Values can be duplicated
+ Python is an easy programming language.
