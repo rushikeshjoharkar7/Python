@@ -19,3 +19,11 @@ bike1 = Bike()
 print(bike1.wheels)
 bike1.start_bike()
 bike1.example_one()
+
+"""
+o/p:
+2
+Bike started
+2
+Bike started
+"""
