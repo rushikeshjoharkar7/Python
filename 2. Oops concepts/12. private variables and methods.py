@@ -45,7 +45,7 @@ class A:
 
 
 obj = A()
-obj.set_age(45)         # value of a is modified with 14
+obj.set_age(45)         # value of a is modified with 45
 print(obj.get_age())
 
 
