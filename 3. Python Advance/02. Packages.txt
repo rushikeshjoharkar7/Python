@@ -1,0 +1,7 @@
+Packages in Python :
+
+- Packages are nothing but folders, created for organising stuff.
+
+- For using the functions of modules created inside different packages,
+      we have to import the modules using the package names.
+

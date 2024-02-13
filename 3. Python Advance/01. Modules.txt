@@ -1,0 +1,12 @@
+MODULE
+
+- Module is a python file containing a set of functions
+
+- To print a set of functions available in module, we can write code as "print(dir(module_name))"
+
+
+
+Built-in Modules
+
+- Built-in modules in python have set of built-in functions. eg. math, random, numpy, pandas,etc
+
