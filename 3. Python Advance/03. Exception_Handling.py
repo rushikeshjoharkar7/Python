@@ -19,7 +19,19 @@ ZeroDivisionError: division by zero
 start program
 """
 ################################################################################
+x = 5
+y = "hello"
+try:
+    z = x + y
+except Exception as e:
+    print("Error: ", e)
+##################################################################################
+try:
+    result = 10 / 0  
 
+except Exception as e:
+    print("An error occurred:", e)
+###############################################################################
 # with exception handling
 
 print("start program")
