@@ -19,7 +19,6 @@ print(a)
 
 """
 o/p:
-a[3] = 4
 TypeError: 'tuple' object does not support item assignment
 """
 #################################################################
